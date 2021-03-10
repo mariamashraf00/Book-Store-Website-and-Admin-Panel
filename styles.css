@@ -1,0 +1,48 @@
+body {
+	min-height: 50vh;
+}
+.event{
+	box-shadow: 0 4px 16px -8px rgba(0, 0, 0, 0.4);
+	 display: flex; 
+	 border-radius:8px; 
+	 margin: 32px 0;
+	 background-color: #f5f5f5;
+}
+.event-left
+{
+	background-color: #222; 
+	min-width: 82px;
+	display: flex; 
+	align-items: center; 
+	justify-content: center; 
+	color:#eee ; 
+	padding: 8px 48px; 
+	font-weight: bold; 
+	text-align:center ;
+	 border-radius: 8px 0 0 8px;
+}
+
+.event-right
+{
+	display: flex;
+	flex-direction: column; 
+	justify-content: center;
+	padding: 0 24px;
+}
+.event-title
+{
+	font-size: 24px; 
+	margin: 24px 0 10px 0; 
+	color:#218bbb ;
+	text-transform: uppercase;
+}
+.presenter
+{
+	font-size: 20px; color:#218bbb;
+}
+
+.video{
+width:80vw;
+height:40vw;
+
+}
