@@ -1,1 +1,1 @@
-# BookSTore
+Bootkive bookstore website for ordering books, checking & watching events hosted at the bookstore. There's also an Admin Panel to manage the bookstore's data. This was developed using HTML, CSS, Javascript, PHP, SQL and Bootstrap 4
